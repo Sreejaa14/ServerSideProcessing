@@ -78,9 +78,11 @@ Publish the website in the given URL.
 ```
 
 ## SERVER SIDE PROCESSING:
+<img width="1920" height="878" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/f17a0124-553b-481f-881f-e2f8e970e1dc" />
 
 
 ## HOMEPAGE:
+<img width="1920" height="1080" alt="Screenshot (2349)" src="https://github.com/user-attachments/assets/b5999958-5abb-426c-a159-a89e998f4d28" />
 
 
 ## RESULT:
